@@ -14,4 +14,5 @@ Bu Python projesi ile basit bir şekilde ders ve not yönetimi işlemlerini sim�
 ## Notlar
 
 Bu proje eğitim ve örnek amaçlıdır. Gerçek bir veri kaydı veya güvenlik fonksiyonu içermez
+
 Bu ve benzeri küçük projeleri hem yedek hem hatıra olarak GitHub’a ekliyorum.
